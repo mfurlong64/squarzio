@@ -1,0 +1,6 @@
+<linker>
+<assembly fullname="Assembly-UnityScript">
+<type fullname="rotate_mini" preserve="all"/>
+<type fullname="transform" preserve="all"/>
+</assembly>
+</linker>

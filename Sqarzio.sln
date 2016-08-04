@@ -1,14 +1,24 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{A0EA3724-9EBE-F435-C76B-021B11FB0FDD}") = "Sqarzio", "Assembly-CSharp-firstpass.csproj", "{3D5CABD7-1716-2B5F-F6B3-5A60D6B2A05F}"
+EndProject
+Project("{A0EA3724-9EBE-F435-C76B-021B11FB0FDD}") = "Sqarzio", "Assembly-CSharp-Editor.csproj", "{4053FB55-7439-E1A0-5B15-70ECFB2B4862}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{3D5CABD7-1716-2B5F-F6B3-5A60D6B2A05F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D5CABD7-1716-2B5F-F6B3-5A60D6B2A05F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D5CABD7-1716-2B5F-F6B3-5A60D6B2A05F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D5CABD7-1716-2B5F-F6B3-5A60D6B2A05F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4053FB55-7439-E1A0-5B15-70ECFB2B4862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4053FB55-7439-E1A0-5B15-70ECFB2B4862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4053FB55-7439-E1A0-5B15-70ECFB2B4862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4053FB55-7439-E1A0-5B15-70ECFB2B4862}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
