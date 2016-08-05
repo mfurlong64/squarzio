@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 2782e92042a0447fbb21d842881b1973
-timeCreated: 1470363047
+timeCreated: 1470417253
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -25,6 +25,10 @@ TextureImporter:
     21300036: sqarzio_face_18
     21300038: sqarzio_face_19
     21300040: sqarzio_face_20
+    21300042: sqarzio_face_21
+    21300044: sqarzio_face_22
+    21300046: sqarzio_face_23
+    21300048: sqarzio_face_24
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -335,6 +339,58 @@ TextureImporter:
       tessellationDetail: 0
     - serializedVersion: 2
       name: sqarzio_face_20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 11
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sqarzio_face_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sqarzio_face_22
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 11
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sqarzio_face_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 11
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sqarzio_face_24
       rect:
         serializedVersion: 2
         x: 141
